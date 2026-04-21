@@ -31,7 +31,7 @@ Stata's built-in `lookfor` only searches **variable names and labels** — it ca
 ### From GitHub (recommended)
 
 ```stata
-net install searchfor, from("https://raw.githubusercontent.com/yourusername/searchfor/main/")
+net install searchfor, from("https://raw.githubusercontent.com/ranaredoan/searchfor/main/")
 ```
 
 ### Manual
