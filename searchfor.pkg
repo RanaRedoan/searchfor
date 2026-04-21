@@ -1,0 +1,28 @@
+d 'SEARCHFOR': Universal search utility — find any text, number, or pattern across Stata variables
+d
+d  searchfor searches every variable in the active dataset (or a
+d  user-specified subset) and reports: which variables contain the
+d  search term, hit counts, percentage of matching observations, and
+d  the exact observation (row) numbers where matches occur.
+d
+d  The command handles string variables (partial or exact match,
+d  case-insensitive by default) and numeric variables (exact equality,
+d  or value-label search via the vallabel option).  All results are
+d  stored in r() for programmatic use.
+d
+d KW: search
+d KW: data exploration
+d KW: find
+d KW: text search
+d KW: pattern matching
+d KW: variable contents
+d
+d Requires: Stata version 14
+d
+d Distribution-Date: 20260421
+d
+d Author: Your Name, Your Institution
+d Support: email you@email.com
+d
+f searchfor.ado
+f searchfor.sthlp

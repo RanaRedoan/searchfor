@@ -1,0 +1,3 @@
+v 3
+l searchfor packages from https://raw.githubusercontent.com/ranaredoan/searchfor/main/
+p searchfor Universal search utility — find any text, number, or pattern across Stata variables
